@@ -1,0 +1,21 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\bin\Debug\GMap.NET.Core.dll
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\obj\Debug\mapas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\obj\Debug\mapas.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\obj\Debug\mapas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\obj\Debug\mapas.Formularios.ColegioForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\obj\Debug\mapas.Formularios.ListadoDeColesForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian\Desktop\mapas\mapas\obj\Debug\mapas.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\mapas\mapas\obj\Debug\mapas.Formularios.ColegioForm.resources
+C:\Users\Adrian\Desktop\mapas\mapas\obj\Debug\mapas.Formularios.ListadoDeColesForm.resources
+C:\Users\Adrian\Desktop\mapas\mapas\obj\Debug\mapas.MainForm.resources
+C:\Users\Adrian\Desktop\mapas\mapas\obj\Debug\mapas.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\mapas\mapas\obj\Debug\mapas.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\bin\Debug\MarianMaps.exe.config
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\bin\Debug\MarianMaps.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\bin\Debug\MarianMaps.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\obj\Debug\MarianMaps.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\obj\Debug\MarianMaps.pdb

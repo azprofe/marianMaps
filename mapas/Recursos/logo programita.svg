@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   width="841.89px"
+   height="595.28px"
+   viewBox="0 0 841.89 595.28"
+   enable-background="new 0 0 841.89 595.28"
+   xml:space="preserve"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="logo programita.svg"
+   inkscape:export-filename="C:\Users\Usuario\Documents\SharpDevelop Projects\mapas\mapas\Recursos\logo programita.png"
+   inkscape:export-xdpi="16.559999"
+   inkscape:export-ydpi="16.559999"><metadata
+   id="metadata33"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs31" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview29"
+   showgrid="false"
+   inkscape:zoom="0.39645207"
+   inkscape:cx="420.94501"
+   inkscape:cy="297.64001"
+   inkscape:window-x="304"
+   inkscape:window-y="267"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Capa_1" />
+<circle
+   fill="#EAEEEF"
+   cx="420.806"
+   cy="297.221"
+   r="259.487"
+   id="circle3" />
+<g
+   id="g5">
+	<polyline
+   fill="#F9B233"
+   points="404.915,278.623 439.672,274.283 439.672,516.169 413.703,518.601 404.915,278.623  "
+   id="polyline7" />
+	<polygon
+   fill="#9DC6D7"
+   points="439.672,274.283 600.37,226.892 600.37,477.168 439.672,514.49  "
+   id="polygon9" />
+	<path
+   fill="#F4E68E"
+   d="M404.915,285.107"
+   id="path11" />
+	<polygon
+   fill="#9DC6D7"
+   points="404.915,279.546 237.744,226.011 241.784,476.108 413.504,517.773  "
+   id="polygon13" />
+	<polygon
+   fill="#FFFFFF"
+   points="258.598,232.689 277.138,219.451 417.551,277.099 402.48,278.766  "
+   id="polygon15" />
+	<polygon
+   fill="#FFFFFF"
+   points="417.551,277.099 559.966,219.451 582.373,232.199 439.672,274.283  "
+   id="polygon17" />
+</g>
+<g
+   opacity="0.8"
+   id="g19">
+	<path
+   fill="#81C7B2"
+   d="M423.89,396.589c-12.864-55.027-39.081-101.039-66.862-146.201c-9.341-15.185-17.863-30.876-25.595-47.063   c-29.514-61.796,4.107-138.684,67.266-153.903c52.642-12.685,103.868,15.046,122.332,66.895   c10.163,28.539,9.177,56.852-3.121,84.858c-12.385,28.206-28.98,53.598-44.339,79.823c-20.373,34.787-37.556,71.123-47.684,110.999   C425.639,392.972,425.091,393.858,423.89,396.589z M429.911,205.507c23.525-0.123,42.632-20.077,42.678-44.57   c0.047-24.77-19.453-44.977-43.299-44.868c-23.55,0.107-43.233,21.032-42.839,45.543   C386.841,185.832,406.442,205.63,429.911,205.507z"
+   id="path21" />
+	<g
+   id="g23">
+		<path
+   fill="#F9B233"
+   d="M425.723,205.335c0,0-6.992-36.96,8.024-61.365c15.016-24.405,36.993-26.703,36.993-26.703    s17.914-2.4,44.502-5.618c27.308-3.305,39.492-12.403,39.492-12.403s-9.75,38.623-26.685,54.494s-38.873,15.037-58.502,29.216    c-19.629,14.179-21.731,18.404-21.731,18.404s-5.299,2.564-10.501,3.439C431.63,205.757,425.723,205.335,425.723,205.335z"
+   id="path25" />
+		<path
+   fill="#FFFFFF"
+   d="M499.335,113.602c0,0,9.779,5.411,8.854,11.346c-0.924,5.936-7.467,17.057-7.467,17.057    s11.328-0.976,16.441,2.501s7.807,10.15,7.807,10.15s8.252-4.192,17.404-22.219s12.078-32.519,12.078-32.519    s-13.4,7.864-28.905,10.132C511.493,112.104,499.335,113.602,499.335,113.602z"
+   id="path27" />
+	</g>
+</g>
+</svg>

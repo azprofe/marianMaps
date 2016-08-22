@@ -1,0 +1,3 @@
+D:\Desarrollo\PROYECTOS\dotNET\C#\PuestoCentral\PuestoCentral\lib\GMap.NET.Core\obj\Debug\GMap.NET.Core.csprojResolveAssemblyReference.cache
+D:\Desarrollo\PROYECTOS\dotNET\C#\PuestoCentral\PuestoCentral\lib\GMap.NET.Core\obj\Debug\GMap.NET.Properties.Resources.resources
+D:\Desarrollo\PROYECTOS\dotNET\C#\PuestoCentral\PuestoCentral\lib\GMap.NET.Core\obj\Debug\GMap.NET.Core.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+MarianMaps by @enoldor is licensed under a Creative Commons Reconocimiento-NoComercial 4.0 Internacional License. 
+Esta obra está sujeta a la licencia Reconocimiento-NoComercial 4.0 Internacional de Creative Commons. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-nc/4.0/.
+Estilos gráficos Irene Casamayor
+GMap http://greatmaps.codeplex.com/ se encuentra bajo la licencia MIT http://opensource.org/licenses/MIT
+Bing Maps para un uso de menos de 125.000 transacciones bilaterales se encuentra bajo la licencia https://www.microsoft.com/maps/product/terms.html
